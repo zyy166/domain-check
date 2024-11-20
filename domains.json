@@ -1,5 +1,17 @@
 [
-  { "domain": "123", "registrationDate": "2024-06-16", "expirationDate": "2025-07-15", "system": "SpaceShip", "systemURL": "https://www.spaceship.com/zh" },
-  { "domain": "321", "registrationDate": "2024-04-16", "expirationDate": "2029-04-15", "system": "SpaceShip", "systemURL": "https://www.spaceship.com/zh" },
-  { "domain": "000", "registrationDate": "2024-07-17", "expirationDate": "2025-07-16", "system": "SpaceShip", "systemURL": "https://www.spaceship.com/zh" }
+  { "domain": "zy130.us.kg", "registrationDate": "2024-08-05", "expirationDate": "2025-08-05", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "zzys.us.kg", "registrationDate": "2024-10-08", "expirationDate": "2025-10-08", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "小羽.us.kg", "registrationDate": "2024-10-08", "expirationDate": "2025-10-08", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "z-y.us.kg", "registrationDate": "2024-08-05", "expirationDate": "2025-08-05", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "zzbk.us.kg", "registrationDate": "2024-10-08", "expirationDate": "2025-10-08", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": " 涛涛.us.kg", "registrationDate": "2024-10-08", "expirationDate": "2025-10-08", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "baisong.us.kg", "registrationDate": "2024-11-02", "expirationDate": "2025-11-02", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "下次一定.us.kg", "registrationDate": "2024-11-02", "expirationDate": "2025-11-02", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "爱自己.us.kg", "registrationDate": "2024-11-02", "expirationDate": "2025-11-02", "system": "US.KG", "systemURL": "https://register.us.kg/panel/main" },
+  { "domain": "taoge.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2026-11-15", "system": "customer.l53.net", "systemURL": "https://customer.l53.net" },
+  { "domain": "xiaoyu.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2026-11-15", "system": "customer.l53.net", "systemURL": "https://customer.l53.net" },
+  { "domain": "lingmu.ggff.net", "registrationDate": "2024-10-30", "expirationDate": "2025-10-30", "system": "customer.l53.net", "systemURL": "https://customer.l53.net" },
+  { "domain": "paolu.filegear-sg.me", "registrationDate": "2024-10-30", "expirationDate": "2025-10-30", "system": "customer.l53.net", "systemURL": "https://customer.l53.net" },
+  { "domain": "zbk.line.pm", "registrationDate": "2024-11-02", "expirationDate": "2025-11-02", "system": "dnsexit.com", "systemURL": "https://dnsexit.com/Direct.sv?cmd=userhome&tabnum=0" },
+  { "domain": "zys.line.pm", "registrationDate": "2024-11-02", "expirationDate": "2025-11-02", "system": "dnsexit.com", "systemURL": "https://dnsexit.com/Direct.sv?cmd=userhome&tabnum=0" }
 ]
