@@ -12,6 +12,8 @@
   { "domain": "xiaoyu.ggff.net", "registrationDate": "2024-11-15", "expirationDate": "2026-11-15", "system": "customer.l53.net", "systemURL": "https://customer.l53.net" },
   { "domain": "lingmu.ggff.net", "registrationDate": "2024-10-30", "expirationDate": "2025-10-30", "system": "customer.l53.net", "systemURL": "https://customer.l53.net" },
   { "domain": "paolu.filegear-sg.me", "registrationDate": "2024-10-30", "expirationDate": "2025-10-30", "system": "customer.l53.net", "systemURL": "https://customer.l53.net" },
+  { "domain": "zzzz.cloudns.ch", "registrationDate": "2024-08-30", "expirationDate": "2099-01-01", "system": "cloudns.net", "systemURL": "https://www.cloudns.net/main/" },
+  { "domain": "zyu.cloudns.ch", "registrationDate": "2024-08-19", "expirationDate": "2099-01-01", "system": "cloudns.net", "systemURL": "https://www.cloudns.net/main/" },
   { "domain": "zbk.line.pm", "registrationDate": "2024-11-02", "expirationDate": "2025-11-02", "system": "dnsexit.com", "systemURL": "https://dnsexit.com/Direct.sv?cmd=userhome&tabnum=0" },
   { "domain": "zys.line.pm", "registrationDate": "2024-11-02", "expirationDate": "2025-11-02", "system": "dnsexit.com", "systemURL": "https://dnsexit.com/Direct.sv?cmd=userhome&tabnum=0" }
 ]
