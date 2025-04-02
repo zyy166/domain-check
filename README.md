@@ -1,21 +1,17 @@
 # domain-check
 这是一个简洁高效的域名可视化展示面板，基于Cloudflare Workers构建。它提供了一个直观的界面，让用户能够一目了然地查看他们域名的状态、注册商、注册日期、过期日期和使用进度，并可在到期前通过TG机器人向用户推送通知。
 
-**DEMO**：<https://domains.yutian81.top>  
+**DEMO**：<https://domain.yuzong.nyc.mn/>  
 
 ## 2024-11-11 更新：每天只进行一次 TG 通知
 - 创建一个KV命令空间：名称随意，假设为`DOMAINS_TG_KV`
 - 在 workers 或 pages 的设置里，绑定 kv 空间，变量名为`DOMAINS_TG_KV`（不能修改），绑定上一步中新建的 kv 空间
-- 最新的代码为仓库中的 `DOMAINS_TG_KV.js` 文件
-
 
 ## 部署方法
 
 **worker 部署**
 
 在cf中创建一个workers，复制`_worker.js`中的代码到workers中，点击保存并部署。
-
-[![快速部署到 CF Worker](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yutian81/domain-check)
 
 ## 变量设置
 | 变量名 | 填写示例 | 说明 | 是否必填 | 
